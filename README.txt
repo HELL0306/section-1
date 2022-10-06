@@ -8,3 +8,6 @@ master changes
 =======
 css change 1
 >>>>>>> css-assignments
+
+changes made in master
+
