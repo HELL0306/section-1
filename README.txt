@@ -3,4 +3,8 @@ this is a read me file.
 
 minor changes
 
+<<<<<<< HEAD
 master changes
+=======
+css change 1
+>>>>>>> css-assignments
