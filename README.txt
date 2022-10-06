@@ -8,6 +8,10 @@ master changes
 =======
 css change 1
 >>>>>>> css-assignments
+<<<<<<< HEAD
 
 changes made in master
 
+=======
+ js changes made
+>>>>>>> js-assignments
